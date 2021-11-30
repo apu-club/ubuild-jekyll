@@ -31,7 +31,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2021/11/30/logo-small.png"
     alt_text: APU - Club de montaña
   background_image: "/uploads/2021/11/30/logo-small.png"
 - template: content-feature
